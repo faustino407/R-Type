@@ -1,0 +1,12 @@
+﻿  cenasus.cpp
+C:\Users\Ricardo\Desktop\cenasus-main\SEPUSITORIO-main\cenasus\cenasus\Game.h(19,9): error C2374: 'distX': redefinição; várias inicializações
+C:\Users\Ricardo\Desktop\cenasus-main\SEPUSITORIO-main\cenasus\cenasus\Game.h(18,9): message : consulte a declaração de 'distX'
+C:\Users\Ricardo\Desktop\cenasus-main\SEPUSITORIO-main\cenasus\cenasus\Game.h(21,37): error C2065: 'distY': identificador não declarado
+C:\Users\Ricardo\Desktop\cenasus-main\SEPUSITORIO-main\cenasus\cenasus\Game.h(21,45): error C2065: 'distY': identificador não declarado
+  Enemy.cpp
+  Game.cpp
+C:\Users\Ricardo\Desktop\cenasus-main\SEPUSITORIO-main\cenasus\cenasus\Game.h(19,9): error C2374: 'distX': redefinição; várias inicializações
+C:\Users\Ricardo\Desktop\cenasus-main\SEPUSITORIO-main\cenasus\cenasus\Game.h(18,9): message : consulte a declaração de 'distX'
+C:\Users\Ricardo\Desktop\cenasus-main\SEPUSITORIO-main\cenasus\cenasus\Game.h(21,37): error C2065: 'distY': identificador não declarado
+C:\Users\Ricardo\Desktop\cenasus-main\SEPUSITORIO-main\cenasus\cenasus\Game.h(21,45): error C2065: 'distY': identificador não declarado
+  Gerando Código...
